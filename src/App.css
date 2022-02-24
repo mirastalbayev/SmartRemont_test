@@ -1,0 +1,14 @@
+.App {
+    margin: 15px auto;
+    width: 1730px;
+}
+
+.globalCentered {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.test {
+    color: #DC143C;
+}
